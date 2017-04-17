@@ -1,0 +1,15 @@
+*{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 8px;
+  padding-top: 10px;
+  padding-left: 3px;
+  height: 30px;
+}
+.franjaAmarilla{
+  background-color: yellow;
+}
+.franjaMagenta{
+  background-color: #EE0AA9;
+  border: solid .5px;
+  border-color:black;
+}
