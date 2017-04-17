@@ -6,14 +6,17 @@
   padding-right: 5px;
   margin-left: 10px;
 
+
 }
 .franjaAmarilla{
   background-color: yellow;
   display: inline-block;
+  width: 150px;
+  height: 30px;
 }
 .franjaMagenta{
   background-color: #EE0AA9;
-  border: solid .5px;
-  border-color:black;
   display: inline-block;
+  width: 150px;
+  height: 30px;
 }
